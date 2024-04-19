@@ -25,7 +25,7 @@ function Navbar({ user }) {
                 <Link to={"/autorization"}>Sign Up</Link>
               </Button>
               <Button className="w-[130px] h-[45px] rounded-sm phone:hidden">
-                <Link to={"/autorization"}>Sign Up</Link>
+                <Link to={"/autorization"}>Sign In</Link>
               </Button>
             </>
           ) : (

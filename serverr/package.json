@@ -16,6 +16,7 @@
     "express-fileupload": "^1.4.0",
     "jsonwebtoken": "^9.0.0",
     "md5": "^2.3.0",
+    "mongodb": "^6.5.0",
     "mongoose": "^6.8.1",
     "telegraf": "^4.11.2"
   },
